@@ -6,7 +6,3 @@
 
 
 ### 📫 Connect With Me: 
-[<img align="left" alt="JonCanales | LinkedIn" width="22px" class="fab fa-linkedin" />][linkedin]
-
-
-
