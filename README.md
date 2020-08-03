@@ -5,7 +5,8 @@
 
 
 
-- 📫 How to reach me: linkedin.com/in/joncanales
+### 📫 Connect With Me: 
+<i class="fab fa-linkedin"></i>
 
 
 
