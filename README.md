@@ -1,5 +1,5 @@
 
-![Banner](https://user-images.githubusercontent.com/27993147/87047431-7fcd4380-c1c8-11ea-9f00-cac70a5e5553.png)
+![Banner](![Software Engineer](https://user-images.githubusercontent.com/27993147/95005404-00cc8900-05c6-11eb-90f7-4268c3c74227.png))
 <h1 align="center">Hi There! 👋 </h1>
 <h3 align="center">My name is Jonathan and Im a software engineer. I love everything front end and Javascript</h3>
 
