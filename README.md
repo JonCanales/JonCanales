@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
 <h3 align="center">A passionate software engineer from New Jersey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joncanales" alt="joncanales" /> </p>
+<p align="left">  </p>
 
 - 🌱 I’m currently learning **React.js/Python/Flask**
 
