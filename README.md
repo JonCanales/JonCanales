@@ -1,7 +1,7 @@
 
 ![Banner](https://user-images.githubusercontent.com/27993147/87047431-7fcd4380-c1c8-11ea-9f00-cac70a5e5553.png)
-<h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">A passionate software engineer from New Jersey</h3>
+<h1 align="center">Hi There! 👋 </h1>
+<h3 align="center">My name is Jonathan and Im a software engineer. I love everything front end and Javascript</h3>
 
 <p align="left">  </p>
 
