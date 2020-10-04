@@ -11,7 +11,7 @@
 
 - 📝 I regulary write articles on [medium.com/@joncanales](medium.com/@joncanales)
 
-- 📫 How to reach me **linkedin.com/in/joncanales**
+- 📫 How to reach me **https://linkedin.com/in/joncanales**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
