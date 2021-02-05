@@ -2,7 +2,7 @@
 ![Banner](https://user-images.githubusercontent.com/27993147/95005457-01b1ea80-05c7-11eb-8950-b7c3d68f1be6.png)
 
 <h1 align="center">Hi There! 👋 </h1>
-<h3 align="center">My name is Jonathan and Im a software engineer. I love everything front end and Javascript</h3>
+<h3 align="center">My name is Jonathan and Im a software engineer. I love everything front end and Javascript. Currently a SWE Intern @ T-Mobile!</h3>
 
 <p align="left">  </p>
 
